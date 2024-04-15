@@ -8,4 +8,4 @@ Links dos Docs para editar:
 
 [Incio de Projeto v.2](https://docs.google.com/document/d/1D0nmSvbcdjzQXai0onjYEEAXVqYqtDO-/edit)
 
-[Termo de Abertura](https://docs.google.com/document/d/17Y4a4Bd6JXbkABEYACooKrwUBgBxRI8Y/edit)
+[Termo de Abertura - Antigo](https://docs.google.com/document/d/17Y4a4Bd6JXbkABEYACooKrwUBgBxRI8Y/edit)
