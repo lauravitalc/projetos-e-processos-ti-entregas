@@ -1,6 +1,6 @@
 ## Projeto A3: Viagem ao Japão
 
-    O nosso projeto consistirá no planejamento de uma viagem para um grupo de 6 pessoas, com o objetivo de conhecer o Japão e ter um contato direto com sua cultura; isso inclui seus pontos turísticos, sua culinária e idioma.
+O nosso projeto consistirá no planejamento de uma viagem para um grupo de 6 pessoas, com o objetivo de conhecer o Japão e ter um contato direto com sua cultura; isso inclui seus pontos turísticos, sua culinária e idioma.
 
 **Integrantes do grupo:** Davi Teixeira Oliveira, Laura Vital Cacique, Luiz Fernando Pena Pontes, Maria Clara Magalhães, Pedro Henrique Nunes e Victor Caliban.
 
