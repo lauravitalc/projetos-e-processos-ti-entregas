@@ -11,5 +11,6 @@ O nosso projeto consistirá no planejamento de uma viagem para um grupo de 6 pes
 4. [Integração - Regras](https://github.com/lauravitalc/projetos-e-processos-ti-entregas/blob/main/Regras%20(Entrega%203).pdf)
 5. [Declaração do Escopo](https://github.com/lauravitalc/projetos-e-processos-ti-entregas/blob/main/Declara%C3%A7%C3%A3o%20do%20Escopo%20(Entrega%204).pdf)
 6. [Cronograma](https://github.com/lauravitalc/projetos-e-processos-ti-entregas/blob/main/Cronograma%20(Entrega%205).pdf)
-7. [Planejamento Financeiro]()
-8. [Riscos]()
+7. [Planejamento Financeiro](https://github.com/lauravitalc/projetos-e-processos-ti-entregas/blob/main/Planejamento%20Financeiro%20(Entrega%206).pdf)
+8. [Riscos](https://github.com/lauravitalc/projetos-e-processos-ti-entregas/blob/main/Riscos%20(Entrega%207).pdf)
+9. [Termo de Encerramento do Projeto](https://github.com/lauravitalc/projetos-e-processos-ti-entregas/blob/main/Termo%20de%20Encerramento%20do%20Projeto.pdf)
